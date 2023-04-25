@@ -35,3 +35,23 @@ img {
 .header {
     background-color: #171a1b;
 }
+
+.two-columns {
+    text-align: center;
+    font-size: 0;
+} 
+
+.first-column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.second-column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+
+}
