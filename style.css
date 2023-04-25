@@ -16,5 +16,9 @@ img {
 }
 
 .wrapper {
+    width: 100%;
+    table-layout: fixed;
+    background-color: #cccccc;
+    padding-bottom: 60px;
 
 }
