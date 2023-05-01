@@ -84,6 +84,7 @@ img {
 
 .two-columns.last {
     padding: 15px 0;
+    display: flex;
 
 }
 
