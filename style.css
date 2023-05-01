@@ -106,3 +106,12 @@ img {
     border-radius: 5px;
     font-weight: bold;
 }
+
+.button-dark {
+    background-color: #171a1b;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
